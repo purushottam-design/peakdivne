@@ -178,7 +178,7 @@ export default function Footer() {
               href="https://aa100xtech.com/" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="hover:text-white transition-colors underline underline-offset-4"
+              className="hover:text-white transition-colors"
             >
               Design By Absolute Advancement 100X Tech
             </a>
